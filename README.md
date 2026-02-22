@@ -49,7 +49,6 @@
 ### 🖥️ Linux Automation Toolkit
 - Developed Python scripts for disk monitoring
 - Automated backups and system tasks
-- Strengthened Linux CLI and scripting skills
 
 ---
 
@@ -57,15 +56,15 @@
 
 <p align="center">
   <a href="https://www.geeksforgeeks.org/profile/kumarskpf2o">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+    <img src="https://cdn.worldvectorlogo.com/logos/geeksforgeeks-1.svg" width="50"/>
   </a>
 
   <a href="https://takeuforward.org/profile/sumit2310">
-    <img src="https://img.shields.io/badge/TakeUForward-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/source-code.png" width="50"/>
   </a>
 
   <a href="https://leetcode.com/sumitkumar8409">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" width="50"/>
   </a>
 </p>
 
@@ -101,10 +100,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sumit-kumar-22240724b">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-  </a>
-
-  <a href="https://leetcode.com/sumitkumar8409">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
   </a>
 </p>
 
