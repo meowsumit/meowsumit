@@ -1,94 +1,57 @@
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=meowsumit&label=Profile%20views&color=0e75b6&style=flat" alt="meowsumit" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=meowsumit" alt="meowsumit" />
-  </a>
-</p>
-
-- 🌱 I’m currently learning **DSA in Java, Python for AI/ML, Web development (HTML, CSS, JS, React), Japanese language (20–30 mins daily)**  
-- 💬 Ask me about **Java basics & DSA, Python scripting, Web development (HTML, CSS, beginner React), IoT (NodeMCU, Arduino basics)**  
-- 📫 How to reach me: **kumarsk2sumit@gmail.com**  
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1iD9drrmunZNvLrrLBFdEg4IKb-k4alfL/view?usp=drivesdk)  
-- ⚡ Fun fact: **I’m building my own Jarvis-like AI assistant 🤖**
+<h3 align="center">Software Engineering Student | Python | Systems | DSA</h3>
 
 ---
 
-### Connect with me:
+### 🚀 About Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-correct-link-here" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit kumar" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/sumitkumar8409" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sumitkumar8409" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/kumarskpf2o" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kumarskpf2o" height="30" width="40" />
-  </a>
-</p>
+- 🎓 B.Tech CSE Student (2022–Present)
+- 💻 Strong focus on **Data Structures & Algorithms**
+- 🐍 Build automation tools using **Python**
+- 🖥️ Experienced with **Linux system administration & AWS EC2**
+- 📚 Currently improving problem-solving for product-based companies
 
 ---
 
-### Languages and Tools:
+### 🛠 Technical Skills
 
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-</p>
+- **Languages:** Python, Java (Basics)
+- **Core CS:** Data Structures, OOP, Time Complexity
+- **Systems:** Linux, Networking Basics
+- **Cloud Exposure:** AWS EC2, EBS
+- **Tools:** Git, GitHub
 
 ---
 
-### 📊 GitHub Stats:
+### 🔥 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meowsumit&show_icons=true&locale=en" alt="meowsumit" />
-</p>
+#### 🔹 Linux Automation Scripts
+Python scripts to automate disk monitoring, backups, and system tasks.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meowsumit&show_icons=true&locale=en&layout=compact" alt="meowsumit" />
-</p>
+#### 🔹 AWS EC2 Infrastructure Practice
+Deployed and managed Ubuntu EC2 instances with EBS and LVM storage.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meowsumit" alt="meowsumit" />
-</p>
+#### 🔹 AI-based WhatsApp Automation Bot
+Built a structured automation tool using Python for intelligent message handling.
 
+---
+
+### 📈 Currently Working On
+
+- Solving DSA problems daily
+- Writing cleaner and modular Python code
+- Strengthening system-level understanding
+
+---
+
+### 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/sumit-kumar-22240724b
+- LeetCode: https://www.leetcode.com/sumitkumar8409
+- Email: kumarsk2sumit@gmail.com
+
+---
+
+### ⚡ Philosophy
+
+> Build. Break. Fix. Repeat.
