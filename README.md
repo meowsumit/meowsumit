@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="https://www.geeksforgeeks.org/profile/kumarskpf2o">
-    <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" width="50"/>
+    <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" width="60"/>
   </a>
 
   <a href="https://takeuforward.org/profile/sumit2310">
@@ -64,7 +64,7 @@
   </a>
 
   <a href="https://leetcode.com/sumitkumar8409">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="50"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
   </a>
 </p>
 
