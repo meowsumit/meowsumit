@@ -64,7 +64,7 @@
   </a>
 
   <a href="https://leetcode.com/sumitkumar8409">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" width="50"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="50"/>
   </a>
 </p>
 
@@ -73,12 +73,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meowsumit&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=meowsumit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meowsumit&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meowsumit&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=meowsumit&theme=tokyonight&hide_border=true&v=1" />
