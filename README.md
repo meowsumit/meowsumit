@@ -55,7 +55,7 @@
 ## 🧠 Coding Profiles
 
 <p align="center">
-  <a href="https://www.geeksforgeeks.org/profile/kumarskpf2o">
+  <a href="https://www.geeksforgeeks.org/profile/sumitkumar8409">
     <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" width="60"/>
   </a>
 
