@@ -13,9 +13,9 @@
 ## 🧠 About Me
 
 - 🎓 B.Tech CSE Student (2022–Present)
-- 💻 Focused on **Data Structures & Algorithms**
-- 🐍 Strong in **Python scripting & automation**
-- 🖥️ Hands-on experience with **Linux & AWS EC2**
+- 💻 Focused on Data Structures & Algorithms
+- 🐍 Strong in Python scripting & automation
+- 🖥️ Hands-on experience with Linux & AWS EC2
 - 🚀 Preparing for product-based & systems roles
 
 ---
@@ -59,8 +59,13 @@
   <a href="https://www.geeksforgeeks.org/profile/kumarskpf2o">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
+
   <a href="https://takeuforward.org/profile/sumit2310">
     <img src="https://img.shields.io/badge/TakeUForward-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/sumitkumar8409">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
@@ -69,15 +74,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meowsumit&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=meowsumit&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meowsumit&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meowsumit&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=meowsumit&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=meowsumit&theme=tokyonight&hide_border=true&v=1" />
 </p>
 
 ---
@@ -97,7 +102,8 @@
   <a href="https://www.linkedin.com/in/sumit-kumar-22240724b">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
   </a>
-  <a href="https://www.leetcode.com/sumitkumar8409">
+
+  <a href="https://leetcode.com/sumitkumar8409">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
   </a>
 </p>
