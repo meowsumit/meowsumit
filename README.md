@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
-<h3 align="center">🚀 Software Engineering Student | Python | Systems | DSA</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;DSA+%7C+Python+%7C+Linux;Building+Systems+%F0%9F%9A%80" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=meowsumit&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -10,63 +13,81 @@
 ## 🧠 About Me
 
 - 🎓 B.Tech CSE Student (2022–Present)
-- 💻 Strong focus on **Data Structures & Algorithms**
-- 🐍 Build automation tools using **Python**
-- 🖥️ Experienced with **Linux & AWS EC2**
-- 📈 Preparing for product-based company roles
+- 💻 Focused on **Data Structures & Algorithms**
+- 🐍 Strong in **Python scripting & automation**
+- 🖥️ Hands-on experience with **Linux & AWS EC2**
+- 🚀 Preparing for product-based & systems roles
 
 ---
 
 ## ⚙️ Tech Stack
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50"/>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50"/>
 </p>
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🖥️ Linux Automation Toolkit
-Python scripts for monitoring disk usage, backups, and system tasks.
-
-### ☁️ AWS EC2 Infrastructure Practice
-Launched and configured Ubuntu EC2 instances with EBS and LVM storage.
+### ☁️ AWS EC2 Linux Infrastructure Practice
+- Launched Ubuntu EC2 instances
+- Attached & managed EBS volumes
+- Implemented LVM for dynamic storage
+- Monitored system health using Linux commands
 
 ### 🤖 AI-based WhatsApp Automation Bot
-Built a structured Python automation tool with intelligent message handling.
+- Built structured Python automation scripts
+- Integrated AI API for intelligent responses
+- Implemented duplicate message handling logic
+
+### 🖥️ Linux Automation Toolkit
+- Developed Python scripts for disk monitoring
+- Automated backups and system tasks
+- Strengthened Linux CLI and scripting skills
+
+---
+
+## 🧠 Coding Profiles
+
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/kumarskpf2o">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://takeuforward.org/profile/sumit2310">
+    <img src="https://img.shields.io/badge/TakeUForward-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meowsumit&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=meowsumit&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meowsumit&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meowsumit&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meowsumit&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=meowsumit&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🎯 Currently Grinding
 
-- 📌 Solving DSA daily
+- 📌 Solving DSA problems daily
 - 🧠 Improving problem-solving speed
-- ⚙️ Writing cleaner and modular Python code
-- 🚀 Learning scalable systems fundamentals
+- ⚙️ Writing clean and modular Python code
+- 🚀 Learning scalable system fundamentals
 
 ---
 
@@ -83,4 +104,4 @@ Built a structured Python automation tool with intelligent message handling.
 
 ---
 
-> ⚡ “Build. Break. Fix. Repeat.”
+> ⚡ Build. Break. Fix. Repeat.
