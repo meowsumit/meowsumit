@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="https://www.geeksforgeeks.org/profile/kumarskpf2o">
-    <img src="https://cdn.worldvectorlogo.com/logos/geeksforgeeks-1.svg" width="50"/>
+    <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" width="50"/>
   </a>
 
   <a href="https://takeuforward.org/profile/sumit2310">
