@@ -60,7 +60,7 @@
   </a>
 
   <a href="https://takeuforward.org/profile/sumit2310">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/source-code.png](https://takeuforward.org/takeUforward.svg" width="50"/>
+    <img src="https://takeuforward.org/takeUforward.svg" width="50"/>
   </a>
 
   <a href="https://leetcode.com/sumitkumar8409">
